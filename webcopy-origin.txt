@@ -1,0 +1,128 @@
+Uri: https://cdn.discordapp.com/emojis/1118117438354116708.webp?size=96&quality=lossless
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\emojis\1118117438354116708.webp
+Content Type: image/webp
+
+Uri: https://cdn.ereemby.com/attachments/17120885046594251-imagem.jpeg
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\attachments\17120885046594251-imagem.jpeg
+Content Type: image/png
+
+Uri: https://cdn.ereemby.com/attachments/1712088508942501-imagem.jpeg
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\attachments\1712088508942501-imagem.jpeg
+Content Type: image/png
+
+Uri: https://jvstore.ereemby.store/
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\index.htm
+Content Type: text/html
+
+Uri: https://jvstore.ereemby.store/product/1712159819685394745950865822/171216011275648574689366772
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\product\1712159819685394745950865822\171216011275648574689366772.html
+Content Type: text/html
+
+Uri: https://jvstore.ereemby.store/_next/image?url=%2Fimgs%2Ficons%2Fdiscord.png&w=128&q=70
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\discord.png
+Content Type: image/png
+
+Uri: https://jvstore.ereemby.store/_next/image?url=%2Fimgs%2Ficons%2Fdiscord.png&w=64&q=70
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\discord-1.png
+Content Type: image/png
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/26-4f90cd5317d69506.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\26-4f90cd5317d69506.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/317-6de18402eed769ef.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\317-6de18402eed769ef.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/69-fa3fc45ad22bd328.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\69-fa3fc45ad22bd328.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/703-1611f551db4f3900.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\703-1611f551db4f3900.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/726-40db3cdf1436f818.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\726-40db3cdf1436f818.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/792-171a2f368716bbc3.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\792-171a2f368716bbc3.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/layout-8f5af733b2f69e17.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\layout-8f5af733b2f69e17.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/page-6f98c486482e31a5.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\page-6f98c486482e31a5.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/product/[category]/[product]/@informEmail/page-1316bde308722ba5.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\product\[category]\[product]\@informEmail\page-1316bde308722ba5.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/product/[category]/[product]/@selectPayment/page-038014b4f80d8e13.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\product\[category]\[product]\@selectPayment\page-038014b4f80d8e13.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/product/[category]/[product]/layout-ebba36fe6da2d7fc.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\product\[category]\[product]\layout-ebba36fe6da2d7fc.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/(public)/product/[category]/[product]/page-958219a8ee29bd62.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\(public)\product\[category]\[product]\page-958219a8ee29bd62.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/app/layout-d48071605bc5cf28.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\app\layout-d48071605bc5cf28.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/fd9d1056-cec07dce6c3e574b.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\fd9d1056-cec07dce6c3e574b.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/main-app-7d53f5263228ef30.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\main-app-7d53f5263228ef30.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/chunks/webpack-94a5f1ae046195cd.js
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\chunks\webpack-94a5f1ae046195cd.js
+Content Type: application/javascript
+
+Uri: https://jvstore.ereemby.store/_next/static/css/da9addd11c4efc88.css
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\css\da9addd11c4efc88.css
+Content Type: text/css
+
+Uri: https://jvstore.ereemby.store/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://jvstore.ereemby.store/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\jvstore.ereemby.store\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
